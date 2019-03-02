@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://coderzh.github.io/hugo-pacman-theme/categories/</loc>
+    <loc>https://dkgeena.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://coderzh.github.io/hugo-pacman-theme/tags/</loc>
+    <loc>https://dkgeena.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://coderzh.github.io/hugo-pacman-theme/feed.xml</loc>
+    <loc>https://dkgeena.github.io/feed.xml</loc>
     <priority>0</priority>
   </url>
   

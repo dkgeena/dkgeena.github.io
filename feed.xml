@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>horange</title>
-    <link>http://coderzh.github.io/hugo-pacman-theme/feed.xml</link>
+    <link>https://dkgeena.github.io/feed.xml</link>
     <description>Recent content on horange</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     
-	<atom:link href="http://coderzh.github.io/hugo-pacman-theme/feed.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://dkgeena.github.io/feed.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
