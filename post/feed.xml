@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>horange</title>
-    <link>https://dkgeena.github.io/feed.xml</link>
-    <description>Recent content on horange</description>
+    <title>Posts on horange</title>
+    <link>https://dkgeena.github.io/post/</link>
+    <description>Recent content in Posts on horange</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <lastBuildDate>Sun, 03 Mar 2019 09:04:56 +0800</lastBuildDate>
     
-	<atom:link href="https://dkgeena.github.io/feed.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://dkgeena.github.io/post/feed.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -27,15 +27,6 @@
       
       <guid>https://dkgeena.github.io/post/test01/</guid>
       <description>test01 nothing</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://dkgeena.github.io/about/</link>
-      <pubDate>Sun, 03 Mar 2019 02:07:45 +0800</pubDate>
-      
-      <guid>https://dkgeena.github.io/about/</guid>
-      <description>about any</description>
     </item>
     
     <item>

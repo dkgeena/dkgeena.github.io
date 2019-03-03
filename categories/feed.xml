@@ -10,5 +10,23 @@
 	<atom:link href="https://dkgeena.github.io/categories/feed.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Default</title>
+      <link>https://dkgeena.github.io/categories/default/</link>
+      <pubDate>Sun, 03 Mar 2019 02:07:45 +0800</pubDate>
+      
+      <guid>https://dkgeena.github.io/categories/default/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Test</title>
+      <link>https://dkgeena.github.io/categories/test/</link>
+      <pubDate>Sun, 03 Mar 2019 09:04:56 +0800</pubDate>
+      
+      <guid>https://dkgeena.github.io/categories/test/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
